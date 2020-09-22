@@ -1,0 +1,11 @@
+.box {
+    height: 60px;
+    padding: 10px 20px 15px;
+    color: black;
+    background: lightblue;
+}
+/* @media only screen and (max-width: 600px) {
+    .caption {
+      font-weight: 8px;
+    }
+  } */
