@@ -1,11 +1,127 @@
-.box {
-    height: 60px;
-    padding: 10px 20px 15px;
-    color: black;
-    background: lightblue;
+.box-large {
+  height: 500px;
+  background-color:lightslategray;
+  margin-top: 5%;
+  margin-bottom: 10%;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: -50px;
+  padding-top: 10px;
 }
-/* @media only screen and (max-width: 600px) {
-    .caption {
-      font-weight: 8px;
+
+.box-small {
+  height: 400px;
+  background-color: lightslategray;
+  margin-top: 20%;
+  margin-bottom: 75%;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: -50px;
+  padding-top: 10px;
+}
+
+body {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  background-color: rgba(228, 220, 220, 0.9);
+}
+
+.text-left{
+  font-weight: bold;
+}
+
+.title {
+  font-weight: bold;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.caption {
+  text-align: justify;
+}
+.navbar {
+  background-color: rgb(124, 150, 255);
+}
+
+.navbar toggler {
+  color: black;
+  background-color: black;
+}
+
+.dropdown-menu{
+  background-color: rgb(232, 226, 226);
+}
+.navbar-expand-lg {
+  background-color: rgb(124, 150, 255);
+}
+
+.navbar-expand-lg a {
+  color: black;
+}
+
+.navbar-toggler span {
+  background-color: rgb(9, 14, 181);
+  margin: 5px;
+  display: flex;
+  height: 4px;
+  width: 20px;
+  border-color: white;
+}
+
+.box-comparison {
+  height: 800px;
+  background-color: lightslategray;
+  margin-top: 10px;
+  margin-bottom: 75%;
+  margin-right: 20px;
+  padding-left: 15px;
+  padding-right: 5px;
+  padding-bottom: -10px;
+  padding-top: 10px;
+}
+
+.box-plot {
+  height: 800px;
+  background-color: lightslategray;
+  margin-top: 10px;
+  margin-bottom: 75%;
+  margin-right: 20px;
+  padding-left: 15px;
+  padding-right: 5px;
+  padding-bottom: -10px;
+  padding-top: 10px;
+}
+
+@media (max-width: 770px){
+    .img {
+      /* float: left; */
+      display: inline;
+      width: 25%;
+      padding: 5px;
     }
-  } */
+
+    .box-small {
+      height: 250px;
+      background-color: lightslategray;
+      margin-top: 10px;
+      margin-bottom: 75%;
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-bottom: -10px;
+      padding-top: 10px;
+    }
+
+    .box-comparison {
+      height: 250px;
+      background-color: lightslategray;
+      margin-top: 10px;
+      margin-bottom: 75%;
+      margin-right: 20px;
+      padding-left: 15px;
+      padding-right: 5px;
+      padding-bottom: -10px;
+      padding-top: 10px;
+    }
+  }
