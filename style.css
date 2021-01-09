@@ -115,8 +115,9 @@ p {
       padding: 5px;
     }
 
+   
     .box-small {
-      height: 250px;
+      height: 500px;
       background-color: lightslategray;
       margin-top: 10px;
       margin-bottom: 75%;
