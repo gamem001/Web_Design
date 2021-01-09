@@ -26,37 +26,36 @@ At the top of each page, the navigation menu :
 
 ### Screenshots
 
-This section contains screenshots of each page built and referenced above, at varying screen widths.
+This section contains screenshots of each page built and referenced above, some at varying screen widths.
 
 #### <a id="landing-page"></a>Landing page
 
-Large screen:
+Large screen landing page:
 
 ![Landing page large screen](Images/landingResize.png)
 
-Small screen:
+Small screen landing page:
 
 ![Landing page small screen](Images/landing-sm.png)
 
 
 #### <a id="comparisons-page"></a>Comparisons page
 
-Large screen:
+Large screen comparison page:
 
 ![comparison page large screen](Images/comparison-lg.png)
 
 
 #### <a id="data-page"></a>Data page
 
-Large screen:
+Large screen data page:
 
 ![data page large screen](Images/data-lg.png)
 
 #### <a id="visualization-pages"></a>Visualization pages
 
-You'll build four of these, one for each visualization. Here's an example of one:
 
-Large screen:
+Large screen visualization page:
 
 ![visualize page large screen](Images/visualize-lg.png)
 
@@ -64,7 +63,8 @@ Large screen:
 
 #### <a id="navigation-menu"></a>Navigation menu
 
-Large screen:
+Large screen navigation menu:
+
 ![nav menu large screen](Images/nav-lg.png)
 
 
